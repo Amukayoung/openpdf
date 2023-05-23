@@ -1,0 +1,11 @@
+{
+  "name": "openpdf",
+  "version": "1.0.0",
+  "description": "This is a npm package for generating pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amuka Andrew Young",
+  "license": "ISC"
+}
