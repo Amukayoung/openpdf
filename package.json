@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amuka Andrew Young",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "puppeteer": "^20.3.0"
+  }
 }
