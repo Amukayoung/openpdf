@@ -1,7 +1,7 @@
 {
   "name": "openpdf",
   "version": "1.0.0",
-  "description": "This is a npm package for generating pdf",
+  "description": "This is a npm package for generating a pdf from a react component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
