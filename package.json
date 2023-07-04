@@ -1,6 +1,6 @@
 {
   "name": "openpdf",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "This is a npm package for generating a pdf from a react component",
   "main": "index.js",
   "scripts": {
