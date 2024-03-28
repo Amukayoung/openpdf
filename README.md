@@ -49,7 +49,7 @@ This package allows you to generate PDF files from React components using Puppet
 
    The `generatePDF` function returns the file path of the generated PDF.
 
-3. The PDF will be generated with the default format of 'A4'. If you want to specify a different format, you can pass an optional `format` parameter to the `generatePDF` function:
+3. The PDF will be generated with the default format of 'A4'. If you want to specify a different format, you can pass an optional `format` params to the `generatePDF` function:
 
    ```javascript
    const generatedPDFPath = await pdfGenerator.generatePDF(<MyComponent />, 'Letter');
