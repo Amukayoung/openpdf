@@ -55,7 +55,7 @@ This package allows you to generate PDF files from React components. Follow the 
    const generatedPDFPath = await pdfGenerator.generatePDF(<MyComponent />, 'Letter');
    ```
 
-4. Once the PDF is generated, you can use the generated file path (`generatedPDFPath`) to access the PDF file in your application or perform any additional operations.
+4. Once the PDF is generated, you can use the generated file path (`generatedPDFPath`) to access the PDF file in your application.
 
 ## Example
 
