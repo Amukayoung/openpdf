@@ -33,7 +33,7 @@ This package allows you to generate PDF files from React components. Follow the 
      return (
        <div>
          <h1>Hey, PDF!</h1>
-         <p>This is an example PDF generated using the openpdf.</p>
+         <p>This is an example PDF generated using the openpdf package</p>
        </div>
      );
    }
