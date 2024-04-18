@@ -49,7 +49,7 @@ This package allows you to generate PDF files from React components. Follow the 
 
    The `generatePDF` function returns the file path of the generated PDF.
 
-3. The PDF will be generated with the default format of 'A4'. If you want a specific format, you can pass an optional `format` params to the `generatePDF` function:
+3. The PDF will be generated with the default format of 'A4'. If you want a specific format, you can pass an optional parameter `format` to the `generatePDF` function:
 
    ```javascript
    const generatedPDFPath = await pdfGenerator.generatePDF(<MyComponent />, 'Letter');
