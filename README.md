@@ -81,7 +81,7 @@ Remember to replace `./MyComponent` with the correct path to your React componen
 
 ## License
 
-This package is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it as you like.
+This package is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Credits
 
