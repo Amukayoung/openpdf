@@ -81,8 +81,8 @@ Remember to replace `./MyComponent` with the correct path to your React componen
 
 ## License
 
-This package is released under the [MIT License](https://opensource.org/licenses/MIT).
+This package is released under the [MIT License](https://opensource.org/licenses/MIT). 
 
 ## Credits
 
-This package utilizes the power of [Puppeteer](https://github.com/puppeteer/puppeteer) for browser automation and [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html) for rendering React components to HTML.
+This package utilizes the power of [Puppeteer](https://github.com/puppeteer/puppeteer) for browser automation and [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html) for rendering React components to HTML. We greatly appreciate the owners of the above libraries
