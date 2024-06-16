@@ -24,7 +24,7 @@ This package allows you to generate PDF files from React components. Below is a 
 
 ## Usage
 
-1. Create a React component that you want to convert to a PDF. See in the example below:
+1. Create a React component to be converted to a PDF. See in the example below:
 
    ```javascript
    import React from 'react';
