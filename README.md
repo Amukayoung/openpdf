@@ -85,4 +85,4 @@ This package is released under the [MIT License](https://opensource.org/licenses
 
 ## Credits
 
-This package utilizes the power of [Puppeteer](https://github.com/puppeteer/puppeteer) for browser automation and [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html) for rendering React components to HTML. We highly appreciates the owners of the above libraries
+This package utilizes the power of [Puppeteer](https://github.com/puppeteer/puppeteer) for browser automation and [ReactDOMServer](https://reactjs.org/docs/react-dom-server.html) for rendering React components to HTML. Much appreciation to the owners of the above libraries
