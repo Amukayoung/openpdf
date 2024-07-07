@@ -1,6 +1,6 @@
 # Openpdf is a NPM PDF Generator
 
-This package allows you to generate PDF files from React components. Below is a guide on how to use this NPM package
+This NPM package allows you to generate PDF files from React components. Below is a guide on how to use the package
 
 ## Installation
 
